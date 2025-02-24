@@ -8,24 +8,24 @@ import Image3 from "../../assets/service-3.svg";
 const data = [
   {
     id: 1,
-    image: Image1,
-    title: "UI/UX design",
-    description:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
-  },
-  {
-    id: 2,
     image: Image2,
     title: "Web Development",
     description:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
+      "I design and develop fast, responsive, and scalable websites tailored to your needs. With a focus on performance, security, and user experience.",
+  },
+  {
+    id: 2,
+    image: Image1,
+    title: "UI/UX Design",
+    description:
+      "I craft intuitive, engaging, and user-centric designs that enhance experiences. With a focus on aesthetics, functionality, and usability.",
   },
   {
     id: 3,
     image: Image3,
     title: "Photography",
     description:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
+      "I capture compelling and high-quality visuals that tell stories. With a focus on creativity, detail, and composition.",
   },
 ];
 

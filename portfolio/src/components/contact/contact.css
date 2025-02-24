@@ -1,6 +1,7 @@
 .contact__container {
   grid-template-columns: 4fr 8fr;
   column-gap: 1.875rem;
+  margin-bottom: 3rem;
 }
 
 .contact__title {

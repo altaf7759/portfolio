@@ -4,11 +4,11 @@ const HeaderSocials = () => {
   return (
     <div className="home__socials">
       <a
-        href="https://www.instagram.com/"
+        href="https://www.linkedin.com/"
         className="home__social-link"
         target="_blank"
       >
-        <i class="fa-brands fa-instagram"></i>
+        <i class="fa-brands fa-linkedin"></i>
       </a>
 
       <a
@@ -20,19 +20,19 @@ const HeaderSocials = () => {
       </a>
 
       <a
-        href="https://www.behance.com/"
+        href="https://www.github.com/"
         className="home__social-link"
         target="_blank"
       >
-        <i class="fa-brands fa-behance"></i>
+        <i class="fa-brands fa-github"></i>
       </a>
 
       <a
-        href="https://www.dribble.com/"
+        href="https://www.instagram.com/"
         className="home__social-link"
         target="_blank"
       >
-        <i class="fa-brands fa-dribbble"></i>
+        <i class="fa-brands fa-instagram"></i>
       </a>
 
       <a
