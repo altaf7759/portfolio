@@ -25,10 +25,9 @@ const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">
-              I'm a Full Stack Web Developer passionate about building scalable,
-              user-friendly web applications. I specialize in seamless
-              frontend-backend integration, optimizing performance, and creating
-              intuitive digital experiences.
+              I am Altaf Raja, web developer from Noida, India. I have rich
+              experience in web site design and building and customization, also
+              I am good at WordPress.
             </p>
             <a href="/altaf-resume.pdf" className="btn" download>
               Download CV
