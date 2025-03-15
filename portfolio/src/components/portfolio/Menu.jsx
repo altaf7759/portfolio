@@ -4,6 +4,7 @@ import Work3 from "../../assets/work-3.svg";
 import Work4 from "../../assets/work-4.svg";
 import Work5 from "../../assets/work-5.svg";
 import Work6 from "../../assets/work-6.svg";
+import Work7 from "../../assets/work-7.jpg";
 
 const Menu = [
   {
@@ -44,6 +45,12 @@ const Menu = [
     image: Work6,
     title: "Game Store App Concept",
     category: "Art",
+  },
+  {
+    id: 7,
+    image: Work7,
+    title: "Complete MERN Stack Authentication",
+    category: "FullStack",
   },
 ];
 
